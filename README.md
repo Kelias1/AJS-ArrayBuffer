@@ -19,3 +19,5 @@ function getBuffer() {
 }
 
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/jxuycj7cbd57j193?svg=true)](https://ci.appveyor.com/project/Kelias1/ajs-arraybuffer)
